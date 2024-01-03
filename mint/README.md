@@ -14,7 +14,7 @@
 
     ```
     // Put your secret keys here
-    const secretKey = [
+    const secretKey = [68a612011456424811a855fb8e2c2ae7123e41c342283bc22ed863347b053ebe
         "0x...",
         "0x...",
         "0x...",
@@ -28,7 +28,6 @@
     ```
 
 3. Run
-
     ```bash
     node mint.js
     ```
